@@ -1,2 +1,3 @@
 # BelgBankNaarYnab
-Simpele Scriptjes om de geëxporteerde gegevens uit Bel banken om te zetten naar .csv file die je kan uploaden in YNAB
+
+Simpele Scriptjes die de geëxporteerde bankgegevens gaan omzetten naar een .csv-file die je in YNAB kunt opladen.
